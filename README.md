@@ -16,3 +16,4 @@ The repository ADM-HW3 contains the code from Homework 3 for the course of Algor
 * The file `Question_4.png` is the output of Question 4.
 * The file `RankingList.txt` contains the sorted list from Question 7.1.
 * The file `command_line_question.sh` contains the answer to Question 6 in a .sh bash executable file.
+* The file `Question_4.png` contains the graph of Question 4, as we tried to show it in `nbviewer` but we could't see the graph there.
