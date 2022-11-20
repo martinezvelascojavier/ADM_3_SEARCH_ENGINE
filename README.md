@@ -12,5 +12,5 @@ The repository ADM-HW3 contains the code from Homework 3 for the course of Algor
 
 `FILES CONTAINED`:
 
-* The file `HW3_GROUP_1.ipynb` contains a Jupyter Notebook with Questions 1-4, and Algorithmic Questions 7 of Homework 2 "Instagram Profiles & Posts".
+* The file `HW3_GROUP_1.ipynb` contains a Jupyter Notebook with Questions 1-4, and Algorithmic Questions 7 of Homework 3 Places in the world.
 * The file `command_line_question.sh` contains the answer to Question 6 in a .sh bash executable file.
