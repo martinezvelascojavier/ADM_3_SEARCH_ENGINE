@@ -23,9 +23,7 @@ The repository ADM-HW3 contains the code from Homework 3 for the course of Algor
 
 
 # Homework 3 - Places of the world
-<p align="center">
-<img src="img/places.png" width = 600>
-</p>
+
 
 Travelling is a pleasant activity which has increased since the end of the COVID-19 pandemic. Nowadays, people look for places to visit which are attractive, affordable, with a rich history and which have recommended activities. Using user-generated content, [Atlas Obscura](https://www.atlasobscura.com/), an American online magazine and travel firm, catalogues unusual and obscure tourist locations. The website's articles span many subjects, including history, science, cuisine, and unique places.
 
