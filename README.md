@@ -70,9 +70,7 @@ At this point, you should have all the HTML documents about the places of intere
 12. The names of the lists that the place was included in (to save as `placeRelatedLists`): List of Strings.
 13. The names of the related places (to save as `placeRelatedPlaces`): List of Strings.
 14. The URL of the page of the place (to save as `placeURL`):String
-<p align="center">
-<img src="img/last_version_place.png" width = 1000>
-</p>
+
 
 
 For each place, you create a `place_i.tsv` file of this structure:
@@ -138,9 +136,6 @@ The final output of the query must return, if present, the following information
 
 __Example Output__:
 
-<p align="center">
-<img src="img/output1_ex.png" width = 800>
-</p>
 
 If everything works well in this step, you can go to the next point and make your Search Engine more complex and better at answering queries.
 
@@ -188,9 +183,7 @@ More precisely, the output must contain:
 
 
 __Example Output__:
-<p align="center">
-<img src="img/output2_ex.png" width = 800>
-</p>
+
 
 
 
