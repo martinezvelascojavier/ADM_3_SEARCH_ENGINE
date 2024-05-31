@@ -1,4 +1,7 @@
 # ADM-HW3
+
+WEBSCRAPE DATASET FROM  [Atlas Obscura](https://www.atlasobscura.com/) AND CREATE A SEARCH ENGINE BASED ON THE COLLECTED PLACES.
+
 `AUTHORS`:
 
 `Name`: Sara Cammarota `Matricola`: 1869943 `Email`: cammarota.1869943@studenti.uniroma1.it <br>
